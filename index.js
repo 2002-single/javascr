@@ -1,13 +1,13 @@
-// Input элементы
+
 let productType = document.getElementById("type-select");
 let productName = document.getElementById("product-name");
 let productCount = document.getElementById("product-count");
 let productList = document.getElementsByClassName("products-list")[0];
 
-// Кнопка добавления
+
 let addProductButton = document.getElementsByClassName("add-product")[0];
 
-// Массив продуктов
+
 let productArray = [];
 
 
